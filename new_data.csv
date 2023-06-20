@@ -1,0 +1,529 @@
+,id,label,review
+0,pos0,0,"bất lợi"
+1,pos1,0,"chán"
+2,pos2,0,"chật hẹchật"
+3,pos3,0,"chật"
+4,pos4,0,"tức giận"
+5,pos5,0,"xấu"
+6,pos6,0,"khủng khiếp"
+7,pos7,0,"mỏng"
+8,pos8,0,"nhầm"
+9,pos9,0,"đe dọa"
+10,pos10,0,"ghê"
+11,pos11,0,"hiểm ác"
+12,pos12,0,"lừa dối"
+13,pos13,0,"lừa"
+14,pos14,0,"mặn"
+15,pos15,0,"tệ nhất"
+16,pos16,0,"bẩn thỉu"
+17,pos17,0,"hà khắc"
+18,pos18,0,"cay"
+19,pos19,0,"ngu dốt"
+20,pos20,0,"hiếm"
+21,pos21,0,"ngược đãi"
+22,pos22,0,"chậm"
+23,pos23,0,"căng thẳng"
+24,pos24,0,"thô bạo"
+25,pos25,0,"khó chịu"
+26,pos26,0,"khắc nghiệt"
+27,pos27,0,"kị"
+28,pos28,0,"ghen"
+29,pos29,0,"hỗn tạp"
+30,pos30,0,"dơ"
+31,pos31,0,"liều lĩnh"
+32,pos32,0,"dơ bẩn"
+33,pos33,0,"thô tục"
+34,pos34,0,"tệ hại"
+35,pos35,0,"tệ"
+36,pos36,0,"nhầm lẫn"
+37,pos37,0,"quá mức"
+38,pos38,0,"xấu số"
+39,pos39,0,"ngu si"
+40,pos40,0,"đau đớn"
+41,pos41,0,"phàn nàn"
+42,pos42,0,"phản cảm"
+43,pos43,0,"tàn phá"
+44,pos44,0,"bất mãn"
+45,pos45,0,"hung hăng"
+46,pos46,0,"bất tiện"
+47,pos47,0,"hoang sơ"
+48,pos48,0,"bẩn thỉu"
+49,pos49,0,"dơ bẩn"
+50,pos50,0,"giả dối"
+51,pos51,0,"đắt đỏ"
+52,pos52,0,"đắt"
+53,pos53,0,"yếu"
+54,pos54,0,"sai lầm"
+55,pos55,0,"lầm"
+56,pos56,0,"nghiêm trọng"
+57,pos57,0,"đáng ghét"
+58,pos58,0,"hỏng"
+59,pos59,0,"bất hợp tác"
+60,pos60,0,"chán nản"
+61,pos61,0,"yếu đuối"
+62,pos62,0,"trục trặc"
+63,pos63,0,"bực bội"
+64,pos64,0,"tàn bạo"
+65,pos65,0,"bừa bãi"
+66,pos66,0,"lăng nhăng"
+67,pos67,0,"thất vọng"
+68,pos68,0,"chê bai"
+69,pos69,0,"loang lổ"
+70,pos70,0,"tiêu hao"
+71,pos71,0,"bất công"
+72,pos72,0,"lang thang"
+73,pos73,0,"khổ sở"
+74,pos74,0,"vớ vẩn"
+75,pos75,0,"bất hạnh"
+76,pos76,0,"vô tâm"
+77,pos77,0,"bù xù"
+78,pos78,0,"bừa bộn"
+79,pos79,0,"khó"
+80,pos80,0,"gian dối"
+81,pos81,0,"vô dụng"
+82,pos82,0,"vô nghĩa"
+83,pos83,0,"ác"
+84,pos84,0,"chóng mặt"
+85,pos85,0,"là lạ"
+86,pos86,0,"miễn cưỡng"
+87,pos87,0,"ngu ngốc"
+88,pos88,0,"dị ứng"
+89,pos89,0,"co cứng"
+90,pos90,0,"hại"
+91,pos91,0,"lạm dụng"
+92,pos92,0,"vu khống"
+93,pos93,0,"tai hại"
+94,pos94,0,"tồi"
+95,pos95,0,"xảo quyệt"
+96,pos96,0,"đau thương"
+97,pos97,0,"hỗn loạn"
+98,pos98,0,"nhức nhối"
+99,pos99,0,"đỏ ngầu"
+100,pos100,0,"loét"
+101,pos101,0,"sưng tấy"
+102,pos102,0,"tấy"
+103,pos103,0,"viêm"
+104,pos104,0,"ốm yếu"
+105,pos105,0,"khô"
+106,pos106,0,"nặng bụng"
+107,pos107,0,"nặng nề"
+108,pos108,0,"khàn khàn"
+109,pos109,0,"dị"
+110,pos110,0,"lật"
+111,pos111,0,"vô vọng"
+112,pos112,0,"gian lận"
+113,pos113,0,"xuống cấp"
+114,pos114,0,"ứ đọng"
+115,pos115,0,"lạnh toát"
+116,pos116,0,"oi ả"
+117,pos117,0,"sưng"
+118,pos118,0,"bị nhọt"
+119,pos119,0,"có ác cảm"
+120,pos120,0,"tàn nhẫn"
+121,pos121,0,"mù quáng"
+122,pos122,0,"bất thường"
+123,pos123,0,"bất tín"
+124,pos124,0,"gay gắt"
+125,pos125,0,"mất lòng"
+126,pos126,0,"bạc bẽo"
+127,pos127,0,"thô"
+128,pos128,0,"thất sách"
+129,pos129,0,"quái đản"
+130,pos130,0,"thù địch"
+131,pos131,0,"xúc phạm"
+132,pos132,0,"bất trị"
+133,pos133,0,"yếu đuối"
+134,pos134,0,"run"
+135,pos135,0,"gây mê"
+136,pos136,0,"cạn kiệt"
+137,pos137,0,"tàn tật"
+138,pos138,0,"định mệnh"
+139,pos139,0,"hôi thối"
+140,pos140,0,"mốc"
+141,pos141,0,"hôi"
+142,pos142,0,"gẫy"
+143,pos143,0,"lởm"
+144,pos144,0,"hắc"
+145,pos145,0,"dỏm"
+146,pos146,0,"giởm"
+147,pos147,0,"dởm"
+148,pos148,0,"nhòe"
+149,pos149,0,"chết"
+150,pos150,0,"móp"
+151,pos151,0,"mùi thối"
+152,pos152,0,"thối"
+153,pos153,0,"ràng buộc"
+154,pos154,0,"hư hỏng"
+155,pos155,0,"bị"
+156,pos156,0,"hư"
+157,pos157,0,"giả mạo"
+158,pos158,0,"giả tạo"
+159,pos159,0,"giả"
+160,pos160,0,"sợ hãi"
+161,pos161,0,"khó khăn"
+162,pos162,0,"xấu"
+163,pos163,0,"bốc mùi"
+164,pos164,0,"hôi thối"
+165,pos165,0,"dã man"
+166,pos166,0,"nham hiểm"
+167,pos167,0,"tham nhũng"
+168,pos168,0,"xấu xa"
+169,pos169,0,"ủ rũ"
+170,pos170,0,"thâm"
+171,pos171,0,"kích ứng"
+172,pos172,0,"hờn dỗi"
+173,pos173,0,"vu khống"
+174,pos174,0,"bôi nhọ"
+175,pos175,0,"tác hại"
+176,pos176,0,"tinh nghịch"
+177,pos177,0,"khó tiêu"
+178,pos178,0,"thong thả"
+179,pos179,0,"nhàn nhã"
+180,pos180,0,"trơ"
+181,pos181,0,"thối rữa"
+182,pos182,0,"phù phiếm"
+183,pos183,0,"độc quyền"
+184,pos184,0,"do dự"
+185,pos185,0,"nạn nhân"
+186,pos186,0,"rắc rối"
+187,pos187,0,"sai"
+188,pos188,0,"định kiến"
+189,pos189,0,"buồn bã"
+190,pos190,0,"bứt rứt"
+191,pos191,0,"mùi"
+192,pos192,0,"bại hoại"
+193,pos193,0,"giận dữ"
+194,pos194,0,"báo động"
+195,pos195,0,"phẫn nộ"
+196,pos196,0,"ghét"
+197,pos197,0,"kênh kiệu"
+198,pos198,0,"nhàm chán"
+199,pos199,0,"buồn"
+200,pos200,0,"xót xa"
+201,pos201,0,"đau lòng"
+202,pos202,0,"khủng khiếp"
+203,pos203,0,"1star"
+204,pos204,0,"2star"
+205,pos205,0,"ngắn"
+206,pos206,0,"ác"
+207,pos207,0,"tổn thất"
+208,pos208,0,"nặng nề"
+209,pos209,0,"xót xa"
+210,pos210,0,"đau lòng"
+211,pos211,0,"bức xúc"
+212,pos212,0,"tàn ác"
+213,pos213,0,"ghét"
+214,pos214,0,"ác hiểm"
+215,pos215,0,"rởm"
+216,pos216,0,"tróc"
+217,pos217,0,"ám sát"
+218,pos218,0,"lười"
+219,pos219,0,"vụn"
+220,pos220,0,"gãy"
+221,pos221,0,"hối tiếc"
+222,pos222,0,"tiêu cực"
+223,pos223,0,"ngu"
+224,pos224,0,"đắt"
+225,pos225,0,"hốt hoảng"
+226,pos226,0,"đểu"
+227,pos227,0,"nhái"
+228,pos228,0,"ngứa"
+229,pos229,0,"cùi"
+230,pos230,0,"hàng lô"
+231,pos231,0,"hàng giả"
+232,pos232,0,"phức tạp"
+233,pos233,0,"nát"
+234,pos234,0,"mờ"
+235,pos235,0,"đơ"
+236,pos236,0,"ngỏm"
+237,pos237,0,"thất vọng"
+238,pos238,0,"lâu"
+239,pos239,0,"nặng"
+240,pos240,0,"chậm"
+241,pos241,0,"thủng"
+242,pos242,0,"hỏng"
+243,pos243,0,"trầy"
+244,pos244,0,"dão"
+245,pos245,0,"lỗi"
+246,pos246,0,"kém"
+247,pos247,0,"lùn"
+248,pos248,0,"buồn"
+249,pos249,0,"bùn"
+250,pos250,0,"thiếu"
+251,pos251,0,"thất vọng"
+252,pos252,0,"sai"
+253,pos253,0,"rách"
+254,pos254,0,"ngấy"
+255,pos255,0,"tồi tệ"
+256,pos256,0,"mẻ"
+257,pos257,0,"ẩu"
+258,pos258,0,"cẩu thả"
+259,pos259,0,"lộn"
+260,pos260,0,"phức tạp"
+261,pos261,0,"ế ẩm"
+262,pos262,0,"ế"
+263,pos263,0,"sướt"
+264,nag0,1,"bất lợi"
+265,nag1,1,"chán"
+266,nag2,1,"chật hẹchật"
+267,nag3,1,"chật"
+268,nag4,1,"tức giận"
+269,nag5,1,"xấu"
+270,nag6,1,"khủng khiếp"
+271,nag7,1,"mỏng"
+272,nag8,1,"nhầm"
+273,nag9,1,"đe dọa"
+274,nag10,1,"ghê"
+275,nag11,1,"hiểm ác"
+276,nag12,1,"lừa dối"
+277,nag13,1,"lừa"
+278,nag14,1,"mặn"
+279,nag15,1,"tệ nhất"
+280,nag16,1,"bẩn thỉu"
+281,nag17,1,"hà khắc"
+282,nag18,1,"cay"
+283,nag19,1,"ngu dốt"
+284,nag20,1,"hiếm"
+285,nag21,1,"ngược đãi"
+286,nag22,1,"chậm"
+287,nag23,1,"căng thẳng"
+288,nag24,1,"thô bạo"
+289,nag25,1,"khó chịu"
+290,nag26,1,"khắc nghiệt"
+291,nag27,1,"kị"
+292,nag28,1,"ghen"
+293,nag29,1,"hỗn tạp"
+294,nag30,1,"dơ"
+295,nag31,1,"liều lĩnh"
+296,nag32,1,"dơ bẩn"
+297,nag33,1,"thô tục"
+298,nag34,1,"tệ hại"
+299,nag35,1,"tệ"
+300,nag36,1,"nhầm lẫn"
+301,nag37,1,"quá mức"
+302,nag38,1,"xấu số"
+303,nag39,1,"ngu si"
+304,nag40,1,"đau đớn"
+305,nag41,1,"phàn nàn"
+306,nag42,1,"phản cảm"
+307,nag43,1,"tàn phá"
+308,nag44,1,"bất mãn"
+309,nag45,1,"hung hăng"
+310,nag46,1,"bất tiện"
+311,nag47,1,"hoang sơ"
+312,nag48,1,"bẩn thỉu"
+313,nag49,1,"dơ bẩn"
+314,nag50,1,"giả dối"
+315,nag51,1,"đắt đỏ"
+316,nag52,1,"đắt"
+317,nag53,1,"yếu"
+318,nag54,1,"sai lầm"
+319,nag55,1,"lầm"
+320,nag56,1,"nghiêm trọng"
+321,nag57,1,"đáng ghét"
+322,nag58,1,"hỏng"
+323,nag59,1,"bất hợp tác"
+324,nag60,1,"chán nản"
+325,nag61,1,"yếu đuối"
+326,nag62,1,"trục trặc"
+327,nag63,1,"bực bội"
+328,nag64,1,"tàn bạo"
+329,nag65,1,"bừa bãi"
+330,nag66,1,"lăng nhăng"
+331,nag67,1,"thất vọng"
+332,nag68,1,"chê bai"
+333,nag69,1,"loang lổ"
+334,nag70,1,"tiêu hao"
+335,nag71,1,"bất công"
+336,nag72,1,"lang thang"
+337,nag73,1,"khổ sở"
+338,nag74,1,"vớ vẩn"
+339,nag75,1,"bất hạnh"
+340,nag76,1,"vô tâm"
+341,nag77,1,"bù xù"
+342,nag78,1,"bừa bộn"
+343,nag79,1,"khó"
+344,nag80,1,"gian dối"
+345,nag81,1,"vô dụng"
+346,nag82,1,"vô nghĩa"
+347,nag83,1,"ác"
+348,nag84,1,"chóng mặt"
+349,nag85,1,"là lạ"
+350,nag86,1,"miễn cưỡng"
+351,nag87,1,"ngu ngốc"
+352,nag88,1,"dị ứng"
+353,nag89,1,"co cứng"
+354,nag90,1,"hại"
+355,nag91,1,"lạm dụng"
+356,nag92,1,"vu khống"
+357,nag93,1,"tai hại"
+358,nag94,1,"tồi"
+359,nag95,1,"xảo quyệt"
+360,nag96,1,"đau thương"
+361,nag97,1,"hỗn loạn"
+362,nag98,1,"nhức nhối"
+363,nag99,1,"đỏ ngầu"
+364,nag100,1,"loét"
+365,nag101,1,"sưng tấy"
+366,nag102,1,"tấy"
+367,nag103,1,"viêm"
+368,nag104,1,"ốm yếu"
+369,nag105,1,"khô"
+370,nag106,1,"nặng bụng"
+371,nag107,1,"nặng nề"
+372,nag108,1,"khàn khàn"
+373,nag109,1,"dị"
+374,nag110,1,"lật"
+375,nag111,1,"vô vọng"
+376,nag112,1,"gian lận"
+377,nag113,1,"xuống cấp"
+378,nag114,1,"ứ đọng"
+379,nag115,1,"lạnh toát"
+380,nag116,1,"oi ả"
+381,nag117,1,"sưng"
+382,nag118,1,"bị nhọt"
+383,nag119,1,"có ác cảm"
+384,nag120,1,"tàn nhẫn"
+385,nag121,1,"mù quáng"
+386,nag122,1,"bất thường"
+387,nag123,1,"bất tín"
+388,nag124,1,"gay gắt"
+389,nag125,1,"mất lòng"
+390,nag126,1,"bạc bẽo"
+391,nag127,1,"thô"
+392,nag128,1,"thất sách"
+393,nag129,1,"quái đản"
+394,nag130,1,"thù địch"
+395,nag131,1,"xúc phạm"
+396,nag132,1,"bất trị"
+397,nag133,1,"yếu đuối"
+398,nag134,1,"run"
+399,nag135,1,"gây mê"
+400,nag136,1,"cạn kiệt"
+401,nag137,1,"tàn tật"
+402,nag138,1,"định mệnh"
+403,nag139,1,"hôi thối"
+404,nag140,1,"mốc"
+405,nag141,1,"hôi"
+406,nag142,1,"gẫy"
+407,nag143,1,"lởm"
+408,nag144,1,"hắc"
+409,nag145,1,"dỏm"
+410,nag146,1,"giởm"
+411,nag147,1,"dởm"
+412,nag148,1,"nhòe"
+413,nag149,1,"chết"
+414,nag150,1,"móp"
+415,nag151,1,"mùi thối"
+416,nag152,1,"thối"
+417,nag153,1,"ràng buộc"
+418,nag154,1,"hư hỏng"
+419,nag155,1,"bị"
+420,nag156,1,"hư"
+421,nag157,1,"giả mạo"
+422,nag158,1,"giả tạo"
+423,nag159,1,"giả"
+424,nag160,1,"sợ hãi"
+425,nag161,1,"khó khăn"
+426,nag162,1,"xấu"
+427,nag163,1,"bốc mùi"
+428,nag164,1,"hôi thối"
+429,nag165,1,"dã man"
+430,nag166,1,"nham hiểm"
+431,nag167,1,"tham nhũng"
+432,nag168,1,"xấu xa"
+433,nag169,1,"ủ rũ"
+434,nag170,1,"thâm"
+435,nag171,1,"kích ứng"
+436,nag172,1,"hờn dỗi"
+437,nag173,1,"vu khống"
+438,nag174,1,"bôi nhọ"
+439,nag175,1,"tác hại"
+440,nag176,1,"tinh nghịch"
+441,nag177,1,"khó tiêu"
+442,nag178,1,"thong thả"
+443,nag179,1,"nhàn nhã"
+444,nag180,1,"trơ"
+445,nag181,1,"thối rữa"
+446,nag182,1,"phù phiếm"
+447,nag183,1,"độc quyền"
+448,nag184,1,"do dự"
+449,nag185,1,"nạn nhân"
+450,nag186,1,"rắc rối"
+451,nag187,1,"sai"
+452,nag188,1,"định kiến"
+453,nag189,1,"buồn bã"
+454,nag190,1,"bứt rứt"
+455,nag191,1,"mùi"
+456,nag192,1,"bại hoại"
+457,nag193,1,"giận dữ"
+458,nag194,1,"báo động"
+459,nag195,1,"phẫn nộ"
+460,nag196,1,"ghét"
+461,nag197,1,"kênh kiệu"
+462,nag198,1,"nhàm chán"
+463,nag199,1,"buồn"
+464,nag200,1,"xót xa"
+465,nag201,1,"đau lòng"
+466,nag202,1,"khủng khiếp"
+467,nag203,1,"1star"
+468,nag204,1,"2star"
+469,nag205,1,"ngắn"
+470,nag206,1,"ác"
+471,nag207,1,"tổn thất"
+472,nag208,1,"nặng nề"
+473,nag209,1,"xót xa"
+474,nag210,1,"đau lòng"
+475,nag211,1,"bức xúc"
+476,nag212,1,"tàn ác"
+477,nag213,1,"ghét"
+478,nag214,1,"ác hiểm"
+479,nag215,1,"rởm"
+480,nag216,1,"tróc"
+481,nag217,1,"ám sát"
+482,nag218,1,"lười"
+483,nag219,1,"vụn"
+484,nag220,1,"gãy"
+485,nag221,1,"hối tiếc"
+486,nag222,1,"tiêu cực"
+487,nag223,1,"ngu"
+488,nag224,1,"đắt"
+489,nag225,1,"hốt hoảng"
+490,nag226,1,"đểu"
+491,nag227,1,"nhái"
+492,nag228,1,"ngứa"
+493,nag229,1,"cùi"
+494,nag230,1,"hàng lô"
+495,nag231,1,"hàng giả"
+496,nag232,1,"phức tạp"
+497,nag233,1,"nát"
+498,nag234,1,"mờ"
+499,nag235,1,"đơ"
+500,nag236,1,"ngỏm"
+501,nag237,1,"thất vọng"
+502,nag238,1,"lâu"
+503,nag239,1,"nặng"
+504,nag240,1,"chậm"
+505,nag241,1,"thủng"
+506,nag242,1,"hỏng"
+507,nag243,1,"trầy"
+508,nag244,1,"dão"
+509,nag245,1,"lỗi"
+510,nag246,1,"kém"
+511,nag247,1,"lùn"
+512,nag248,1,"buồn"
+513,nag249,1,"bùn"
+514,nag250,1,"thiếu"
+515,nag251,1,"thất vọng"
+516,nag252,1,"sai"
+517,nag253,1,"rách"
+518,nag254,1,"ngấy"
+519,nag255,1,"tồi tệ"
+520,nag256,1,"mẻ"
+521,nag257,1,"ẩu"
+522,nag258,1,"cẩu thả"
+523,nag259,1,"lộn"
+524,nag260,1,"phức tạp"
+525,nag261,1,"ế ẩm"
+526,nag262,1,"ế"
+527,nag263,1,"sướt"
